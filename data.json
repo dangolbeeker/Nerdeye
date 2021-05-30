@@ -1,0 +1,3140 @@
+{
+    "US": {
+        "Alabama": {
+            "auburn": {
+                "name": "Auburn",
+                "link": "\/\/auburn.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "bham": {
+                "name": "Birmingham",
+                "link": "\/\/bham.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "dothan": {
+                "name": "Dothan",
+                "link": "\/\/dothan.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "shoals": {
+                "name": "Florence \/ Muscle Shoals",
+                "link": "\/\/shoals.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "gadsden": {
+                "name": "Gadsden-anniston",
+                "link": "\/\/gadsden.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "huntsville": {
+                "name": "Huntsville \/ Decatur",
+                "link": "\/\/huntsville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "mobile": {
+                "name": "Mobile",
+                "link": "\/\/mobile.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "montgomery": {
+                "name": "Montgomery",
+                "link": "\/\/montgomery.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "tuscaloosa": {
+                "name": "Tuscaloosa",
+                "link": "\/\/tuscaloosa.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Alaska": {
+            "anchorage": {
+                "name": "Anchorage \/ Mat-su",
+                "link": "\/\/anchorage.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fairbanks": {
+                "name": "Fairbanks",
+                "link": "\/\/fairbanks.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "kenai": {
+                "name": "Kenai Peninsula",
+                "link": "\/\/kenai.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "juneau": {
+                "name": "Southeast Alaska",
+                "link": "\/\/juneau.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Arizona": {
+            "flagstaff": {
+                "name": "Flagstaff \/ Sedona",
+                "link": "\/\/flagstaff.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "mohave": {
+                "name": "Mohave County",
+                "link": "\/\/mohave.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "phoenix": {
+                "name": "Phoenix",
+                "link": "\/\/phoenix.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "prescott": {
+                "name": "Prescott",
+                "link": "\/\/prescott.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "showlow": {
+                "name": "Show Low",
+                "link": "\/\/showlow.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "sierravista": {
+                "name": "Sierra Vista",
+                "link": "\/\/sierravista.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "tucson": {
+                "name": "Tucson",
+                "link": "\/\/tucson.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "yuma": {
+                "name": "Yuma",
+                "link": "\/\/yuma.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Arkansas": {
+            "fayar": {
+                "name": "Fayetteville ",
+                "link": "\/\/fayar.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fortsmith": {
+                "name": "Fort Smith",
+                "link": "\/\/fortsmith.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "jonesboro": {
+                "name": "Jonesboro",
+                "link": "\/\/jonesboro.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "littlerock": {
+                "name": "Little Rock",
+                "link": "\/\/littlerock.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "texarkana": {
+                "name": "Texarkana",
+                "link": "\/\/texarkana.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "California": {
+            "bakersfield": {
+                "name": "Bakersfield",
+                "link": "\/\/bakersfield.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "chico": {
+                "name": "Chico",
+                "link": "\/\/chico.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fresno": {
+                "name": "Fresno \/ Madera",
+                "link": "\/\/fresno.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "goldcountry": {
+                "name": "Gold Country",
+                "link": "\/\/goldcountry.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "hanford": {
+                "name": "Hanford-corcoran",
+                "link": "\/\/hanford.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "humboldt": {
+                "name": "Humboldt County",
+                "link": "\/\/humboldt.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "imperial": {
+                "name": "Imperial County",
+                "link": "\/\/imperial.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "inlandempire": {
+                "name": "Inland Empire",
+                "link": "\/\/inlandempire.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "losangeles": {
+                "name": "Los Angeles",
+                "link": "\/\/losangeles.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "mendocino": {
+                "name": "Mendocino County",
+                "link": "\/\/mendocino.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "merced": {
+                "name": "Merced",
+                "link": "\/\/merced.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "modesto": {
+                "name": "Modesto",
+                "link": "\/\/modesto.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "monterey": {
+                "name": "Monterey Bay",
+                "link": "\/\/monterey.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "orangecounty": {
+                "name": "Orange County",
+                "link": "\/\/orangecounty.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "palmsprings": {
+                "name": "Palm Springs",
+                "link": "\/\/palmsprings.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "redding": {
+                "name": "Redding",
+                "link": "\/\/redding.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "sacramento": {
+                "name": "Sacramento",
+                "link": "\/\/sacramento.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "sandiego": {
+                "name": "San Diego",
+                "link": "\/\/sandiego.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "sfbay": {
+                "name": "San Francisco Bay Area",
+                "link": "\/\/sfbay.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "slo": {
+                "name": "San Luis Obispo",
+                "link": "\/\/slo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "santabarbara": {
+                "name": "Santa Barbara",
+                "link": "\/\/santabarbara.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "santamaria": {
+                "name": "Santa Maria",
+                "link": "\/\/santamaria.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "siskiyou": {
+                "name": "Siskiyou County",
+                "link": "\/\/siskiyou.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "stockton": {
+                "name": "Stockton",
+                "link": "\/\/stockton.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "susanville": {
+                "name": "Susanville",
+                "link": "\/\/susanville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "ventura": {
+                "name": "Ventura County",
+                "link": "\/\/ventura.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "visalia": {
+                "name": "Visalia-tulare",
+                "link": "\/\/visalia.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "yubasutter": {
+                "name": "Yuba-sutter",
+                "link": "\/\/yubasutter.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Colorado": {
+            "boulder": {
+                "name": "Boulder",
+                "link": "\/\/boulder.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "cosprings": {
+                "name": "Colorado Springs",
+                "link": "\/\/cosprings.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "denver": {
+                "name": "Denver",
+                "link": "\/\/denver.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "eastco": {
+                "name": "Eastern CO",
+                "link": "\/\/eastco.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fortcollins": {
+                "name": "Fort Collins \/ North CO",
+                "link": "\/\/fortcollins.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "rockies": {
+                "name": "High Rockies",
+                "link": "\/\/rockies.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "pueblo": {
+                "name": "Pueblo",
+                "link": "\/\/pueblo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "westslope": {
+                "name": "Western Slope",
+                "link": "\/\/westslope.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Connecticut": {
+            "newlondon": {
+                "name": "Eastern CT",
+                "link": "\/\/newlondon.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "hartford": {
+                "name": "Hartford",
+                "link": "\/\/hartford.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "newhaven": {
+                "name": "New Haven",
+                "link": "\/\/newhaven.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "nwct": {
+                "name": "Northwest CT",
+                "link": "\/\/nwct.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Delaware": {
+            "delaware": {
+                "name": "Delaware",
+                "link": "\/\/delaware.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "District of Columbia": {
+            "washingtondc": {
+                "name": "Washington",
+                "link": "\/\/washingtondc.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Florida": {
+            "miami": {
+                "name": "Palm Beach County",
+                "link": "\/\/miami.craigslist.org/d/computer-gigs/search/cpg/pbc"
+            },
+            "daytona": {
+                "name": "Daytona Beach",
+                "link": "\/\/daytona.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "keys": {
+                "name": "Florida Keys",
+                "link": "\/\/keys.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fortlauderdale": {
+                "name": "Fort Lauderdale",
+                "link": "\/\/fortlauderdale.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fortmyers": {
+                "name": "Ft Myers \/ SW Florida",
+                "link": "\/\/fortmyers.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "gainesville": {
+                "name": "Gainesville",
+                "link": "\/\/gainesville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "cfl": {
+                "name": "Heartland Florida",
+                "link": "\/\/cfl.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "jacksonville": {
+                "name": "Jacksonville",
+                "link": "\/\/jacksonville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lakeland": {
+                "name": "Lakeland",
+                "link": "\/\/lakeland.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lakecity": {
+                "name": "North Central FL",
+                "link": "\/\/lakecity.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "ocala": {
+                "name": "Ocala",
+                "link": "\/\/ocala.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "okaloosa": {
+                "name": "Okaloosa \/ Walton",
+                "link": "\/\/okaloosa.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "orlando": {
+                "name": "Orlando",
+                "link": "\/\/orlando.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "panamacity": {
+                "name": "Panama City",
+                "link": "\/\/panamacity.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "pensacola": {
+                "name": "Pensacola",
+                "link": "\/\/pensacola.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "sarasota": {
+                "name": "Sarasota-bradenton",
+                "link": "\/\/sarasota.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "spacecoast": {
+                "name": "Space Coast",
+                "link": "\/\/spacecoast.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "staugustine": {
+                "name": "St Augustine",
+                "link": "\/\/staugustine.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "tallahassee": {
+                "name": "Tallahassee",
+                "link": "\/\/tallahassee.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "tampa": {
+                "name": "Tampa Bay Area",
+                "link": "\/\/tampa.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "treasure": {
+                "name": "Treasure Coast",
+                "link": "\/\/treasure.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Georgia": {
+            "albanyga": {
+                "name": "Albany ",
+                "link": "\/\/albanyga.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "athensga": {
+                "name": "Athens",
+                "link": "\/\/athensga.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "atlanta": {
+                "name": "Atlanta",
+                "link": "\/\/atlanta.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "augusta": {
+                "name": "Augusta",
+                "link": "\/\/augusta.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "brunswick": {
+                "name": "Brunswick",
+                "link": "\/\/brunswick.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "columbusga": {
+                "name": "Columbus ",
+                "link": "\/\/columbusga.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "macon": {
+                "name": "Macon \/ Warner Robins",
+                "link": "\/\/macon.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "nwga": {
+                "name": "Northwest GA",
+                "link": "\/\/nwga.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "savannah": {
+                "name": "Savannah \/ Hinesville",
+                "link": "\/\/savannah.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "statesboro": {
+                "name": "Statesboro",
+                "link": "\/\/statesboro.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "valdosta": {
+                "name": "Valdosta",
+                "link": "\/\/valdosta.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Hawaii": {
+            "honolulu": {
+                "name": "Hawaii",
+                "link": "\/\/honolulu.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Idaho": {
+            "boise": {
+                "name": "Boise",
+                "link": "\/\/boise.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "eastidaho": {
+                "name": "East Idaho",
+                "link": "\/\/eastidaho.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lewiston": {
+                "name": "Lewiston \/ Clarkston",
+                "link": "\/\/lewiston.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "twinfalls": {
+                "name": "Twin Falls",
+                "link": "\/\/twinfalls.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Illinois": {
+            "bn": {
+                "name": "Bloomington-normal",
+                "link": "\/\/bn.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "chambana": {
+                "name": "Champaign Urbana",
+                "link": "\/\/chambana.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "chicago": {
+                "name": "Chicago",
+                "link": "\/\/chicago.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "decatur": {
+                "name": "Decatur",
+                "link": "\/\/decatur.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lasalle": {
+                "name": "La Salle Co",
+                "link": "\/\/lasalle.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "mattoon": {
+                "name": "Mattoon-charleston",
+                "link": "\/\/mattoon.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "peoria": {
+                "name": "Peoria",
+                "link": "\/\/peoria.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "rockford": {
+                "name": "Rockford",
+                "link": "\/\/rockford.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "carbondale": {
+                "name": "Southern Illinois",
+                "link": "\/\/carbondale.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "springfieldil": {
+                "name": "Springfield ",
+                "link": "\/\/springfieldil.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "quincy": {
+                "name": "Western IL",
+                "link": "\/\/quincy.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Indiana": {
+            "bloomington": {
+                "name": "Bloomington",
+                "link": "\/\/bloomington.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "evansville": {
+                "name": "Evansville",
+                "link": "\/\/evansville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fortwayne": {
+                "name": "Fort Wayne",
+                "link": "\/\/fortwayne.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "indianapolis": {
+                "name": "Indianapolis",
+                "link": "\/\/indianapolis.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "kokomo": {
+                "name": "Kokomo",
+                "link": "\/\/kokomo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "tippecanoe": {
+                "name": "Lafayette \/ West Lafayette",
+                "link": "\/\/tippecanoe.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "muncie": {
+                "name": "Muncie \/ Anderson",
+                "link": "\/\/muncie.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "richmondin": {
+                "name": "Richmond ",
+                "link": "\/\/richmondin.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "southbend": {
+                "name": "South Bend \/ Michiana",
+                "link": "\/\/southbend.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "terrehaute": {
+                "name": "Terre Haute",
+                "link": "\/\/terrehaute.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Iowa": {
+            "ames": {
+                "name": "Ames",
+                "link": "\/\/ames.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "cedarrapids": {
+                "name": "Cedar Rapids",
+                "link": "\/\/cedarrapids.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "desmoines": {
+                "name": "Des Moines",
+                "link": "\/\/desmoines.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "dubuque": {
+                "name": "Dubuque",
+                "link": "\/\/dubuque.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fortdodge": {
+                "name": "Fort Dodge",
+                "link": "\/\/fortdodge.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "iowacity": {
+                "name": "Iowa City",
+                "link": "\/\/iowacity.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "masoncity": {
+                "name": "Mason City",
+                "link": "\/\/masoncity.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "quadcities": {
+                "name": "Quad Cities",
+                "link": "\/\/quadcities.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "siouxcity": {
+                "name": "Sioux City",
+                "link": "\/\/siouxcity.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "ottumwa": {
+                "name": "Southeast IA",
+                "link": "\/\/ottumwa.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "waterloo": {
+                "name": "Waterloo \/ Cedar Falls",
+                "link": "\/\/waterloo.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Kansas": {
+            "lawrence": {
+                "name": "Lawrence",
+                "link": "\/\/lawrence.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "ksu": {
+                "name": "Manhattan",
+                "link": "\/\/ksu.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "nwks": {
+                "name": "Northwest KS",
+                "link": "\/\/nwks.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "salina": {
+                "name": "Salina",
+                "link": "\/\/salina.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "seks": {
+                "name": "Southeast KS",
+                "link": "\/\/seks.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "swks": {
+                "name": "Southwest KS",
+                "link": "\/\/swks.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "topeka": {
+                "name": "Topeka",
+                "link": "\/\/topeka.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "wichita": {
+                "name": "Wichita",
+                "link": "\/\/wichita.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Kentucky": {
+            "bgky": {
+                "name": "Bowling Green",
+                "link": "\/\/bgky.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "eastky": {
+                "name": "Eastern Kentucky",
+                "link": "\/\/eastky.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lexington": {
+                "name": "Lexington",
+                "link": "\/\/lexington.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "louisville": {
+                "name": "Louisville",
+                "link": "\/\/louisville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "owensboro": {
+                "name": "Owensboro",
+                "link": "\/\/owensboro.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "westky": {
+                "name": "Western KY",
+                "link": "\/\/westky.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Louisiana": {
+            "batonrouge": {
+                "name": "Baton Rouge",
+                "link": "\/\/batonrouge.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "cenla": {
+                "name": "Central Louisiana",
+                "link": "\/\/cenla.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "houma": {
+                "name": "Houma",
+                "link": "\/\/houma.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lafayette": {
+                "name": "Lafayette",
+                "link": "\/\/lafayette.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lakecharles": {
+                "name": "Lake Charles",
+                "link": "\/\/lakecharles.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "monroe": {
+                "name": "Monroe",
+                "link": "\/\/monroe.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "neworleans": {
+                "name": "New Orleans",
+                "link": "\/\/neworleans.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "shreveport": {
+                "name": "Shreveport",
+                "link": "\/\/shreveport.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Maine": {
+            "maine": {
+                "name": "Maine",
+                "link": "\/\/maine.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Maryland": {
+            "annapolis": {
+                "name": "Annapolis",
+                "link": "\/\/annapolis.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "baltimore": {
+                "name": "Baltimore",
+                "link": "\/\/baltimore.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "easternshore": {
+                "name": "Eastern Shore",
+                "link": "\/\/easternshore.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "frederick": {
+                "name": "Frederick",
+                "link": "\/\/frederick.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "smd": {
+                "name": "Southern Maryland",
+                "link": "\/\/smd.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "westmd": {
+                "name": "Western Maryland",
+                "link": "\/\/westmd.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Massachusetts": {
+            "boston": {
+                "name": "Boston",
+                "link": "\/\/boston.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "capecod": {
+                "name": "Cape Cod \/ Islands",
+                "link": "\/\/capecod.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "southcoast": {
+                "name": "South Coast",
+                "link": "\/\/southcoast.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "westernmass": {
+                "name": "Western Massachusetts",
+                "link": "\/\/westernmass.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "worcester": {
+                "name": "Worcester \/ Central MA",
+                "link": "\/\/worcester.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Michigan": {
+            "annarbor": {
+                "name": "Ann Arbor",
+                "link": "\/\/annarbor.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "battlecreek": {
+                "name": "Battle Creek",
+                "link": "\/\/battlecreek.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "centralmich": {
+                "name": "Central Michigan",
+                "link": "\/\/centralmich.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "detroit": {
+                "name": "Detroit Metro",
+                "link": "\/\/detroit.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "flint": {
+                "name": "Flint",
+                "link": "\/\/flint.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "grandrapids": {
+                "name": "Grand Rapids",
+                "link": "\/\/grandrapids.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "holland": {
+                "name": "Holland",
+                "link": "\/\/holland.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "jxn": {
+                "name": "Jackson ",
+                "link": "\/\/jxn.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "kalamazoo": {
+                "name": "Kalamazoo",
+                "link": "\/\/kalamazoo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lansing": {
+                "name": "Lansing",
+                "link": "\/\/lansing.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "monroemi": {
+                "name": "Monroe ",
+                "link": "\/\/monroemi.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "muskegon": {
+                "name": "Muskegon",
+                "link": "\/\/muskegon.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "nmi": {
+                "name": "Northern Michigan",
+                "link": "\/\/nmi.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "porthuron": {
+                "name": "Port Huron",
+                "link": "\/\/porthuron.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "saginaw": {
+                "name": "Saginaw-midland-baycity",
+                "link": "\/\/saginaw.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "swmi": {
+                "name": "Southwest Michigan",
+                "link": "\/\/swmi.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "thumb": {
+                "name": "The Thumb",
+                "link": "\/\/thumb.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "up": {
+                "name": "Upper Peninsula",
+                "link": "\/\/up.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Minnesota": {
+            "bemidji": {
+                "name": "Bemidji",
+                "link": "\/\/bemidji.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "brainerd": {
+                "name": "Brainerd",
+                "link": "\/\/brainerd.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "duluth": {
+                "name": "Duluth \/ Superior",
+                "link": "\/\/duluth.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "mankato": {
+                "name": "Mankato",
+                "link": "\/\/mankato.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "minneapolis": {
+                "name": "Minneapolis \/ St Paul",
+                "link": "\/\/minneapolis.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "rmn": {
+                "name": "Rochester ",
+                "link": "\/\/rmn.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "marshall": {
+                "name": "Southwest MN",
+                "link": "\/\/marshall.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "stcloud": {
+                "name": "St Cloud",
+                "link": "\/\/stcloud.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Mississippi": {
+            "gulfport": {
+                "name": "Gulfport \/ Biloxi",
+                "link": "\/\/gulfport.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "hattiesburg": {
+                "name": "Hattiesburg",
+                "link": "\/\/hattiesburg.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "jackson": {
+                "name": "Jackson",
+                "link": "\/\/jackson.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "meridian": {
+                "name": "Meridian",
+                "link": "\/\/meridian.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "northmiss": {
+                "name": "North Mississippi",
+                "link": "\/\/northmiss.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "natchez": {
+                "name": "Southwest MS",
+                "link": "\/\/natchez.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Missouri": {
+            "columbiamo": {
+                "name": "Columbia \/ Jeff City",
+                "link": "\/\/columbiamo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "joplin": {
+                "name": "Joplin",
+                "link": "\/\/joplin.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "kansascity": {
+                "name": "Kansas City",
+                "link": "\/\/kansascity.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "kirksville": {
+                "name": "Kirksville",
+                "link": "\/\/kirksville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "loz": {
+                "name": "Lake Of The Ozarks",
+                "link": "\/\/loz.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "semo": {
+                "name": "Southeast Missouri",
+                "link": "\/\/semo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "springfield": {
+                "name": "Springfield",
+                "link": "\/\/springfield.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "stjoseph": {
+                "name": "St Joseph",
+                "link": "\/\/stjoseph.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "stlouis": {
+                "name": "St Louis",
+                "link": "\/\/stlouis.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Montana": {
+            "billings": {
+                "name": "Billings",
+                "link": "\/\/billings.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "bozeman": {
+                "name": "Bozeman",
+                "link": "\/\/bozeman.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "butte": {
+                "name": "Butte",
+                "link": "\/\/butte.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "greatfalls": {
+                "name": "Great Falls",
+                "link": "\/\/greatfalls.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "helena": {
+                "name": "Helena",
+                "link": "\/\/helena.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "kalispell": {
+                "name": "Kalispell",
+                "link": "\/\/kalispell.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "missoula": {
+                "name": "Missoula",
+                "link": "\/\/missoula.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "montana": {
+                "name": "Eastern Montana",
+                "link": "\/\/montana.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Nebraska": {
+            "grandisland": {
+                "name": "Grand Island",
+                "link": "\/\/grandisland.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lincoln": {
+                "name": "Lincoln",
+                "link": "\/\/lincoln.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "northplatte": {
+                "name": "North Platte",
+                "link": "\/\/northplatte.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "omaha": {
+                "name": "Omaha \/ Council Bluffs",
+                "link": "\/\/omaha.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "scottsbluff": {
+                "name": "Scottsbluff \/ Panhandle",
+                "link": "\/\/scottsbluff.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Nevada": {
+            "elko": {
+                "name": "Elko",
+                "link": "\/\/elko.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lasvegas": {
+                "name": "Las Vegas",
+                "link": "\/\/lasvegas.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "reno": {
+                "name": "Reno \/ Tahoe",
+                "link": "\/\/reno.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "New Hampshire": {
+            "nh": {
+                "name": "New Hampshire",
+                "link": "\/\/nh.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "New Jersey": {
+            "cnj": {
+                "name": "Central NJ",
+                "link": "\/\/cnj.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "jerseyshore": {
+                "name": "Jersey Shore",
+                "link": "\/\/jerseyshore.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "newjersey": {
+                "name": "North Jersey",
+                "link": "\/\/newjersey.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "southjersey": {
+                "name": "South Jersey",
+                "link": "\/\/southjersey.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "New Mexico": {
+            "albuquerque": {
+                "name": "Albuquerque",
+                "link": "\/\/albuquerque.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "clovis": {
+                "name": "Clovis \/ Portales",
+                "link": "\/\/clovis.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "farmington": {
+                "name": "Farmington",
+                "link": "\/\/farmington.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lascruces": {
+                "name": "Las Cruces",
+                "link": "\/\/lascruces.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "roswell": {
+                "name": "Roswell \/ Carlsbad",
+                "link": "\/\/roswell.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "santafe": {
+                "name": "Santa Fe \/ Taos",
+                "link": "\/\/santafe.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "New York": {
+            "albany": {
+                "name": "Albany",
+                "link": "\/\/albany.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "binghamton": {
+                "name": "Binghamton",
+                "link": "\/\/binghamton.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "buffalo": {
+                "name": "Buffalo",
+                "link": "\/\/buffalo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "catskills": {
+                "name": "Catskills",
+                "link": "\/\/catskills.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "chautauqua": {
+                "name": "Chautauqua",
+                "link": "\/\/chautauqua.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "elmira": {
+                "name": "Elmira-corning",
+                "link": "\/\/elmira.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fingerlakes": {
+                "name": "Finger Lakes",
+                "link": "\/\/fingerlakes.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "glensfalls": {
+                "name": "Glens Falls",
+                "link": "\/\/glensfalls.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "hudsonvalley": {
+                "name": "Hudson Valley",
+                "link": "\/\/hudsonvalley.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "ithaca": {
+                "name": "Ithaca",
+                "link": "\/\/ithaca.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "longisland": {
+                "name": "Long Island",
+                "link": "\/\/longisland.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "newyork": {
+                "name": "New York City",
+                "link": "\/\/newyork.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "oneonta": {
+                "name": "Oneonta",
+                "link": "\/\/oneonta.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "plattsburgh": {
+                "name": "Plattsburgh-adirondacks",
+                "link": "\/\/plattsburgh.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "potsdam": {
+                "name": "Potsdam-canton-massena",
+                "link": "\/\/potsdam.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "rochester": {
+                "name": "Rochester",
+                "link": "\/\/rochester.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "syracuse": {
+                "name": "Syracuse",
+                "link": "\/\/syracuse.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "twintiers": {
+                "name": "Twin Tiers NY\/PA",
+                "link": "\/\/twintiers.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "utica": {
+                "name": "Utica-rome-oneida",
+                "link": "\/\/utica.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "watertown": {
+                "name": "Watertown",
+                "link": "\/\/watertown.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "North Carolina": {
+            "asheville": {
+                "name": "Asheville",
+                "link": "\/\/asheville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "boone": {
+                "name": "Boone",
+                "link": "\/\/boone.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "charlotte": {
+                "name": "Charlotte",
+                "link": "\/\/charlotte.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "eastnc": {
+                "name": "Eastern NC",
+                "link": "\/\/eastnc.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fayetteville": {
+                "name": "Fayetteville",
+                "link": "\/\/fayetteville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "greensboro": {
+                "name": "Greensboro",
+                "link": "\/\/greensboro.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "hickory": {
+                "name": "Hickory \/ Lenoir",
+                "link": "\/\/hickory.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "onslow": {
+                "name": "Jacksonville ",
+                "link": "\/\/onslow.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "outerbanks": {
+                "name": "Outer Banks",
+                "link": "\/\/outerbanks.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "raleigh": {
+                "name": "Raleigh \/ Durham \/ CH",
+                "link": "\/\/raleigh.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "wilmington": {
+                "name": "Wilmington",
+                "link": "\/\/wilmington.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "winstonsalem": {
+                "name": "Winston-salem",
+                "link": "\/\/winstonsalem.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "North Dakota": {
+            "bismarck": {
+                "name": "Bismarck",
+                "link": "\/\/bismarck.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fargo": {
+                "name": "Fargo \/ Moorhead",
+                "link": "\/\/fargo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "grandforks": {
+                "name": "Grand Forks",
+                "link": "\/\/grandforks.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "nd": {
+                "name": "North Dakota",
+                "link": "\/\/nd.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Ohio": {
+            "akroncanton": {
+                "name": "Akron \/ Canton",
+                "link": "\/\/akroncanton.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "ashtabula": {
+                "name": "Ashtabula",
+                "link": "\/\/ashtabula.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "athensohio": {
+                "name": "Athens ",
+                "link": "\/\/athensohio.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "chillicothe": {
+                "name": "Chillicothe",
+                "link": "\/\/chillicothe.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "cincinnati": {
+                "name": "Cincinnati",
+                "link": "\/\/cincinnati.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "cleveland": {
+                "name": "Cleveland",
+                "link": "\/\/cleveland.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "columbus": {
+                "name": "Columbus",
+                "link": "\/\/columbus.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "dayton": {
+                "name": "Dayton \/ Springfield",
+                "link": "\/\/dayton.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "limaohio": {
+                "name": "Lima \/ Findlay",
+                "link": "\/\/limaohio.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "mansfield": {
+                "name": "Mansfield",
+                "link": "\/\/mansfield.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "sandusky": {
+                "name": "Sandusky",
+                "link": "\/\/sandusky.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "toledo": {
+                "name": "Toledo",
+                "link": "\/\/toledo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "tuscarawas": {
+                "name": "Tuscarawas Co",
+                "link": "\/\/tuscarawas.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "youngstown": {
+                "name": "Youngstown",
+                "link": "\/\/youngstown.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "zanesville": {
+                "name": "Zanesville \/ Cambridge",
+                "link": "\/\/zanesville.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Oklahoma": {
+            "lawton": {
+                "name": "Lawton",
+                "link": "\/\/lawton.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "enid": {
+                "name": "Northwest OK",
+                "link": "\/\/enid.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "oklahomacity": {
+                "name": "Oklahoma City",
+                "link": "\/\/oklahomacity.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "stillwater": {
+                "name": "Stillwater",
+                "link": "\/\/stillwater.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "tulsa": {
+                "name": "Tulsa",
+                "link": "\/\/tulsa.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Oregon": {
+            "bend": {
+                "name": "Bend",
+                "link": "\/\/bend.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "corvallis": {
+                "name": "Corvallis\/albany",
+                "link": "\/\/corvallis.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "eastoregon": {
+                "name": "East Oregon",
+                "link": "\/\/eastoregon.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "eugene": {
+                "name": "Eugene",
+                "link": "\/\/eugene.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "klamath": {
+                "name": "Klamath Falls",
+                "link": "\/\/klamath.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "medford": {
+                "name": "Medford-ashland",
+                "link": "\/\/medford.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "oregoncoast": {
+                "name": "Oregon Coast",
+                "link": "\/\/oregoncoast.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "portland": {
+                "name": "Portland",
+                "link": "\/\/portland.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "roseburg": {
+                "name": "Roseburg",
+                "link": "\/\/roseburg.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "salem": {
+                "name": "Salem",
+                "link": "\/\/salem.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Pennsylvania": {
+            "altoona": {
+                "name": "Altoona-johnstown",
+                "link": "\/\/altoona.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "chambersburg": {
+                "name": "Cumberland Valley",
+                "link": "\/\/chambersburg.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "erie": {
+                "name": "Erie",
+                "link": "\/\/erie.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "harrisburg": {
+                "name": "Harrisburg",
+                "link": "\/\/harrisburg.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lancaster": {
+                "name": "Lancaster",
+                "link": "\/\/lancaster.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "allentown": {
+                "name": "Lehigh Valley",
+                "link": "\/\/allentown.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "meadville": {
+                "name": "Meadville",
+                "link": "\/\/meadville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "philadelphia": {
+                "name": "Philadelphia",
+                "link": "\/\/philadelphia.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "pittsburgh": {
+                "name": "Pittsburgh",
+                "link": "\/\/pittsburgh.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "poconos": {
+                "name": "Poconos",
+                "link": "\/\/poconos.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "reading": {
+                "name": "Reading",
+                "link": "\/\/reading.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "scranton": {
+                "name": "Scranton \/ Wilkes-barre",
+                "link": "\/\/scranton.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "pennstate": {
+                "name": "State College",
+                "link": "\/\/pennstate.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "williamsport": {
+                "name": "Williamsport",
+                "link": "\/\/williamsport.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "york": {
+                "name": "York",
+                "link": "\/\/york.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Rhode Island": {
+            "providence": {
+                "name": "Rhode Island",
+                "link": "\/\/providence.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "South Carolina": {
+            "charleston": {
+                "name": "Charleston",
+                "link": "\/\/charleston.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "columbia": {
+                "name": "Columbia",
+                "link": "\/\/columbia.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "florencesc": {
+                "name": "Florence",
+                "link": "\/\/florencesc.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "greenville": {
+                "name": "Greenville \/ Upstate",
+                "link": "\/\/greenville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "hiltonhead": {
+                "name": "Hilton Head",
+                "link": "\/\/hiltonhead.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "myrtlebeach": {
+                "name": "Myrtle Beach",
+                "link": "\/\/myrtlebeach.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "South Dakota": {
+            "nesd": {
+                "name": "Northeast SD",
+                "link": "\/\/nesd.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "csd": {
+                "name": "Pierre \/ Central SD",
+                "link": "\/\/csd.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "rapidcity": {
+                "name": "Rapid City \/ West SD",
+                "link": "\/\/rapidcity.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "siouxfalls": {
+                "name": "Sioux Falls \/ SE SD",
+                "link": "\/\/siouxfalls.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "sd": {
+                "name": "South Dakota",
+                "link": "\/\/sd.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Tennessee": {
+            "chattanooga": {
+                "name": "Chattanooga",
+                "link": "\/\/chattanooga.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "clarksville": {
+                "name": "Clarksville",
+                "link": "\/\/clarksville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "cookeville": {
+                "name": "Cookeville",
+                "link": "\/\/cookeville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "jacksontn": {
+                "name": "Jackson  ",
+                "link": "\/\/jacksontn.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "knoxville": {
+                "name": "Knoxville",
+                "link": "\/\/knoxville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "memphis": {
+                "name": "Memphis",
+                "link": "\/\/memphis.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "nashville": {
+                "name": "Nashville",
+                "link": "\/\/nashville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "tricities": {
+                "name": "Tri-cities",
+                "link": "\/\/tricities.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Texas": {
+            "abilene": {
+                "name": "Abilene",
+                "link": "\/\/abilene.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "amarillo": {
+                "name": "Amarillo",
+                "link": "\/\/amarillo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "austin": {
+                "name": "Austin",
+                "link": "\/\/austin.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "beaumont": {
+                "name": "Beaumont \/ Port Arthur",
+                "link": "\/\/beaumont.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "brownsville": {
+                "name": "Brownsville",
+                "link": "\/\/brownsville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "collegestation": {
+                "name": "College Station",
+                "link": "\/\/collegestation.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "corpuschristi": {
+                "name": "Corpus Christi",
+                "link": "\/\/corpuschristi.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "dallas": {
+                "name": "Dallas \/ Fort Worth",
+                "link": "\/\/dallas.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "nacogdoches": {
+                "name": "Deep East Texas",
+                "link": "\/\/nacogdoches.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "delrio": {
+                "name": "Del Rio \/ Eagle Pass",
+                "link": "\/\/delrio.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "elpaso": {
+                "name": "El Paso",
+                "link": "\/\/elpaso.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "galveston": {
+                "name": "Galveston",
+                "link": "\/\/galveston.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "houston": {
+                "name": "Houston",
+                "link": "\/\/houston.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "killeen": {
+                "name": "Killeen \/ Temple \/ Ft Hood",
+                "link": "\/\/killeen.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "laredo": {
+                "name": "Laredo",
+                "link": "\/\/laredo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lubbock": {
+                "name": "Lubbock",
+                "link": "\/\/lubbock.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "mcallen": {
+                "name": "Mcallen \/ Edinburg",
+                "link": "\/\/mcallen.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "odessa": {
+                "name": "Odessa \/ Midland",
+                "link": "\/\/odessa.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "sanangelo": {
+                "name": "San Angelo",
+                "link": "\/\/sanangelo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "sanantonio": {
+                "name": "San Antonio",
+                "link": "\/\/sanantonio.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "sanmarcos": {
+                "name": "San Marcos",
+                "link": "\/\/sanmarcos.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "bigbend": {
+                "name": "Southwest TX",
+                "link": "\/\/bigbend.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "texoma": {
+                "name": "Texoma",
+                "link": "\/\/texoma.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "easttexas": {
+                "name": "Tyler \/ East TX",
+                "link": "\/\/easttexas.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "victoriatx": {
+                "name": "Victoria ",
+                "link": "\/\/victoriatx.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "waco": {
+                "name": "Waco",
+                "link": "\/\/waco.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "wichitafalls": {
+                "name": "Wichita Falls",
+                "link": "\/\/wichitafalls.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Utah": {
+            "logan": {
+                "name": "Logan",
+                "link": "\/\/logan.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "ogden": {
+                "name": "Ogden-clearfield",
+                "link": "\/\/ogden.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "provo": {
+                "name": "Provo \/ Orem",
+                "link": "\/\/provo.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "saltlakecity": {
+                "name": "Salt Lake City",
+                "link": "\/\/saltlakecity.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "stgeorge": {
+                "name": "St George",
+                "link": "\/\/stgeorge.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Vermont": {
+            "vermont": {
+                "name": "Vermont",
+                "link": "\/\/vermont.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Virginia": {
+            "charlottesville": {
+                "name": "Charlottesville",
+                "link": "\/\/charlottesville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "danville": {
+                "name": "Danville",
+                "link": "\/\/danville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fredericksburg": {
+                "name": "Fredericksburg",
+                "link": "\/\/fredericksburg.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "norfolk": {
+                "name": "Hampton Roads",
+                "link": "\/\/norfolk.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "harrisonburg": {
+                "name": "Harrisonburg",
+                "link": "\/\/harrisonburg.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lynchburg": {
+                "name": "Lynchburg",
+                "link": "\/\/lynchburg.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "blacksburg": {
+                "name": "New River Valley",
+                "link": "\/\/blacksburg.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "richmond": {
+                "name": "Richmond",
+                "link": "\/\/richmond.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "roanoke": {
+                "name": "Roanoke",
+                "link": "\/\/roanoke.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "swva": {
+                "name": "Southwest VA",
+                "link": "\/\/swva.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "winchester": {
+                "name": "Winchester",
+                "link": "\/\/winchester.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Washington": {
+            "bellingham": {
+                "name": "Bellingham",
+                "link": "\/\/bellingham.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "kpr": {
+                "name": "Kennewick-pasco-richland",
+                "link": "\/\/kpr.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "moseslake": {
+                "name": "Moses Lake",
+                "link": "\/\/moseslake.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "olympic": {
+                "name": "Olympic Peninsula",
+                "link": "\/\/olympic.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "pullman": {
+                "name": "Pullman \/ Moscow",
+                "link": "\/\/pullman.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "seattle": {
+                "name": "Seattle-tacoma",
+                "link": "\/\/seattle.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "skagit": {
+                "name": "Skagit \/ Island \/ SJI",
+                "link": "\/\/skagit.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "spokane": {
+                "name": "Spokane \/ Coeur D'alene",
+                "link": "\/\/spokane.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "wenatchee": {
+                "name": "Wenatchee",
+                "link": "\/\/wenatchee.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "yakima": {
+                "name": "Yakima",
+                "link": "\/\/yakima.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "West Virginia": {
+            "charlestonwv": {
+                "name": "Charleston ",
+                "link": "\/\/charlestonwv.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "martinsburg": {
+                "name": "Eastern Panhandle",
+                "link": "\/\/martinsburg.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "huntington": {
+                "name": "Huntington-ashland",
+                "link": "\/\/huntington.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "morgantown": {
+                "name": "Morgantown",
+                "link": "\/\/morgantown.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "wheeling": {
+                "name": "Northern Panhandle",
+                "link": "\/\/wheeling.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "parkersburg": {
+                "name": "Parkersburg-marietta",
+                "link": "\/\/parkersburg.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "swv": {
+                "name": "Southern WV",
+                "link": "\/\/swv.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "wv": {
+                "name": "West Virginia (old)",
+                "link": "\/\/wv.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Wisconsin": {
+            "appleton": {
+                "name": "Appleton-oshkosh-FDL",
+                "link": "\/\/appleton.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "eauclaire": {
+                "name": "Eau Claire",
+                "link": "\/\/eauclaire.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "greenbay": {
+                "name": "Green Bay",
+                "link": "\/\/greenbay.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "janesville": {
+                "name": "Janesville",
+                "link": "\/\/janesville.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "racine": {
+                "name": "Kenosha-racine",
+                "link": "\/\/racine.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lacrosse": {
+                "name": "La Crosse",
+                "link": "\/\/lacrosse.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "madison": {
+                "name": "Madison",
+                "link": "\/\/madison.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "milwaukee": {
+                "name": "Milwaukee",
+                "link": "\/\/milwaukee.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "northernwi": {
+                "name": "Northern WI",
+                "link": "\/\/northernwi.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "sheboygan": {
+                "name": "Sheboygan",
+                "link": "\/\/sheboygan.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "wausau": {
+                "name": "Wausau",
+                "link": "\/\/wausau.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Wyoming": {
+            "wyoming": {
+                "name": "Wyoming",
+                "link": "\/\/wyoming.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Territories": {
+            "micronesia": {
+                "name": "Guam-micronesia",
+                "link": "\/\/micronesia.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "puertorico": {
+                "name": "Puerto Rico",
+                "link": "\/\/puertorico.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "virgin": {
+                "name": "U.S. Virgin Islands",
+                "link": "\/\/virgin.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        }
+    },
+    "Canada": {
+        "Alberta": {
+            "calgary": {
+                "name": "Calgary",
+                "link": "\/\/calgary.craigslist.ca\/"
+            },
+            "edmonton": {
+                "name": "Edmonton",
+                "link": "\/\/edmonton.craigslist.ca\/"
+            },
+            "ftmcmurray": {
+                "name": "Ft Mcmurray",
+                "link": "\/\/ftmcmurray.craigslist.ca\/"
+            },
+            "lethbridge": {
+                "name": "Lethbridge",
+                "link": "\/\/lethbridge.craigslist.ca\/"
+            },
+            "hat": {
+                "name": "Medicine Hat",
+                "link": "\/\/hat.craigslist.ca\/"
+            },
+            "peace": {
+                "name": "Peace River Country",
+                "link": "\/\/peace.craigslist.ca\/"
+            },
+            "reddeer": {
+                "name": "Red Deer",
+                "link": "\/\/reddeer.craigslist.ca\/"
+            }
+        },
+        "British Columbia": {
+            "cariboo": {
+                "name": "Cariboo",
+                "link": "\/\/cariboo.craigslist.ca\/"
+            },
+            "comoxvalley": {
+                "name": "Comox Valley",
+                "link": "\/\/comoxvalley.craigslist.ca\/"
+            },
+            "abbotsford": {
+                "name": "Fraser Valley",
+                "link": "\/\/abbotsford.craigslist.ca\/"
+            },
+            "kamloops": {
+                "name": "Kamloops",
+                "link": "\/\/kamloops.craigslist.ca\/"
+            },
+            "kelowna": {
+                "name": "Kelowna \/ Okanagan",
+                "link": "\/\/kelowna.craigslist.ca\/"
+            },
+            "kootenays": {
+                "name": "Kootenays",
+                "link": "\/\/kootenays.craigslist.ca\/"
+            },
+            "nanaimo": {
+                "name": "Nanaimo",
+                "link": "\/\/nanaimo.craigslist.ca\/"
+            },
+            "princegeorge": {
+                "name": "Prince George",
+                "link": "\/\/princegeorge.craigslist.ca\/"
+            },
+            "skeena": {
+                "name": "Skeena-bulkley",
+                "link": "\/\/skeena.craigslist.ca\/"
+            },
+            "sunshine": {
+                "name": "Sunshine Coast",
+                "link": "\/\/sunshine.craigslist.ca\/"
+            },
+            "vancouver": {
+                "name": "Vancouver",
+                "link": "\/\/vancouver.craigslist.ca\/"
+            },
+            "victoria": {
+                "name": "Victoria",
+                "link": "\/\/victoria.craigslist.ca\/"
+            },
+            "whistler": {
+                "name": "Whistler",
+                "link": "\/\/whistler.craigslist.ca\/"
+            }
+        },
+        "Manitoba": {
+            "winnipeg": {
+                "name": "Winnipeg",
+                "link": "\/\/winnipeg.craigslist.ca\/"
+            }
+        },
+        "New Brunswick": {
+            "newbrunswick": {
+                "name": "New Brunswick",
+                "link": "\/\/newbrunswick.craigslist.ca\/"
+            }
+        },
+        "Newfoundland and Labrador": {
+            "newfoundland": {
+                "name": "St John's",
+                "link": "\/\/newfoundland.craigslist.ca\/"
+            }
+        },
+        "Northwest Territories": {
+            "territories": {
+                "name": "Territories",
+                "link": "\/\/territories.craigslist.ca\/"
+            },
+            "yellowknife": {
+                "name": "Yellowknife",
+                "link": "\/\/yellowknife.craigslist.ca\/"
+            }
+        },
+        "Nova Scotia": {
+            "halifax": {
+                "name": "Halifax",
+                "link": "\/\/halifax.craigslist.ca\/"
+            }
+        },
+        "Ontario": {
+            "barrie": {
+                "name": "Barrie",
+                "link": "\/\/barrie.craigslist.ca\/"
+            },
+            "belleville": {
+                "name": "Belleville",
+                "link": "\/\/belleville.craigslist.ca\/"
+            },
+            "brantford": {
+                "name": "Brantford-woodstock",
+                "link": "\/\/brantford.craigslist.ca\/"
+            },
+            "chatham": {
+                "name": "Chatham-kent",
+                "link": "\/\/chatham.craigslist.ca\/"
+            },
+            "cornwall": {
+                "name": "Cornwall",
+                "link": "\/\/cornwall.craigslist.ca\/"
+            },
+            "guelph": {
+                "name": "Guelph",
+                "link": "\/\/guelph.craigslist.ca\/"
+            },
+            "hamilton": {
+                "name": "Hamilton-burlington",
+                "link": "\/\/hamilton.craigslist.ca\/"
+            },
+            "kingston": {
+                "name": "Kingston",
+                "link": "\/\/kingston.craigslist.ca\/"
+            },
+            "kitchener": {
+                "name": "Kitchener-waterloo-cambridge",
+                "link": "\/\/kitchener.craigslist.ca\/"
+            },
+            "londonon": {
+                "name": "London ",
+                "link": "\/\/londonon.craigslist.ca\/"
+            },
+            "niagara": {
+                "name": "Niagara Region",
+                "link": "\/\/niagara.craigslist.ca\/"
+            },
+            "ottawa": {
+                "name": "Ottawa-hull-gatineau",
+                "link": "\/\/ottawa.craigslist.ca\/"
+            },
+            "owensound": {
+                "name": "Owen Sound",
+                "link": "\/\/owensound.craigslist.ca\/"
+            },
+            "peterborough": {
+                "name": "Peterborough",
+                "link": "\/\/peterborough.craigslist.ca\/"
+            },
+            "sarnia": {
+                "name": "Sarnia",
+                "link": "\/\/sarnia.craigslist.ca\/"
+            },
+            "soo": {
+                "name": "Sault Ste Marie",
+                "link": "\/\/soo.craigslist.ca\/"
+            },
+            "sudbury": {
+                "name": "Sudbury",
+                "link": "\/\/sudbury.craigslist.ca\/"
+            },
+            "thunderbay": {
+                "name": "Thunder Bay",
+                "link": "\/\/thunderbay.craigslist.ca\/"
+            },
+            "toronto": {
+                "name": "Toronto",
+                "link": "\/\/toronto.craigslist.ca\/"
+            },
+            "windsor": {
+                "name": "Windsor",
+                "link": "\/\/windsor.craigslist.ca\/"
+            }
+        },
+        "Prince Edward Island": {
+            "pei": {
+                "name": "Prince Edward Island",
+                "link": "\/\/pei.craigslist.ca\/"
+            }
+        },
+        "Quebec": {
+            "montreal": {
+                "name": "Montreal",
+                "link": "\/\/montreal.craigslist.ca\/"
+            },
+            "quebec": {
+                "name": "Quebec City",
+                "link": "\/\/quebec.craigslist.ca\/"
+            },
+            "saguenay": {
+                "name": "Saguenay",
+                "link": "\/\/saguenay.craigslist.ca\/"
+            },
+            "sherbrooke": {
+                "name": "Sherbrooke",
+                "link": "\/\/sherbrooke.craigslist.ca\/"
+            },
+            "troisrivieres": {
+                "name": "Trois-rivieres",
+                "link": "\/\/troisrivieres.craigslist.ca\/"
+            }
+        },
+        "Saskatchewan": {
+            "regina": {
+                "name": "Regina",
+                "link": "\/\/regina.craigslist.ca\/"
+            },
+            "saskatoon": {
+                "name": "Saskatoon",
+                "link": "\/\/saskatoon.craigslist.ca\/"
+            }
+        },
+        "Yukon Territory": {
+            "whitehorse": {
+                "name": "Whitehorse",
+                "link": "\/\/whitehorse.craigslist.ca\/"
+            }
+        }
+    },
+    "Europe": {
+        "Austria": {
+            "vienna": {
+                "name": "Vienna",
+                "link": "\/\/vienna.craigslist.at\/"
+            }
+        },
+        "Belgium": {
+            "brussels": {
+                "name": "Belgium",
+                "link": "\/\/brussels.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Bulgaria": {
+            "bulgaria": {
+                "name": "Bulgaria",
+                "link": "\/\/bulgaria.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Croatia": {
+            "zagreb": {
+                "name": "Croatia",
+                "link": "\/\/zagreb.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Czech Republic": {
+            "prague": {
+                "name": "Prague",
+                "link": "\/\/prague.craigslist.cz\/"
+            }
+        },
+        "Denmark": {
+            "copenhagen": {
+                "name": "Copenhagen",
+                "link": "\/\/copenhagen.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Finland": {
+            "helsinki": {
+                "name": "Finland",
+                "link": "\/\/helsinki.craigslist.fi\/"
+            }
+        },
+        "France": {
+            "bordeaux": {
+                "name": "Bordeaux",
+                "link": "\/\/bordeaux.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "rennes": {
+                "name": "Brittany",
+                "link": "\/\/rennes.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "grenoble": {
+                "name": "Grenoble",
+                "link": "\/\/grenoble.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lille": {
+                "name": "Lille",
+                "link": "\/\/lille.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "loire": {
+                "name": "Loire Valley",
+                "link": "\/\/loire.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "lyon": {
+                "name": "Lyon",
+                "link": "\/\/lyon.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "marseilles": {
+                "name": "Marseille",
+                "link": "\/\/marseilles.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "montpellier": {
+                "name": "Montpellier",
+                "link": "\/\/montpellier.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "cotedazur": {
+                "name": "Nice \/ Cote D'azur",
+                "link": "\/\/cotedazur.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "rouen": {
+                "name": "Normandy",
+                "link": "\/\/rouen.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "paris": {
+                "name": "Paris",
+                "link": "\/\/paris.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "strasbourg": {
+                "name": "Strasbourg",
+                "link": "\/\/strasbourg.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "toulouse": {
+                "name": "Toulouse",
+                "link": "\/\/toulouse.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Germany": {
+            "berlin": {
+                "name": "Berlin",
+                "link": "\/\/berlin.craigslist.de\/"
+            },
+            "bremen": {
+                "name": "Bremen",
+                "link": "\/\/bremen.craigslist.de\/"
+            },
+            "cologne": {
+                "name": "Cologne",
+                "link": "\/\/cologne.craigslist.de\/"
+            },
+            "dresden": {
+                "name": "Dresden",
+                "link": "\/\/dresden.craigslist.de\/"
+            },
+            "dusseldorf": {
+                "name": "Dusseldorf",
+                "link": "\/\/dusseldorf.craigslist.de\/"
+            },
+            "essen": {
+                "name": "Essen \/ Ruhr",
+                "link": "\/\/essen.craigslist.de\/"
+            },
+            "frankfurt": {
+                "name": "Frankfurt",
+                "link": "\/\/frankfurt.craigslist.de\/"
+            },
+            "hamburg": {
+                "name": "Hamburg",
+                "link": "\/\/hamburg.craigslist.de\/"
+            },
+            "hannover": {
+                "name": "Hannover",
+                "link": "\/\/hannover.craigslist.de\/"
+            },
+            "heidelberg": {
+                "name": "Heidelberg",
+                "link": "\/\/heidelberg.craigslist.de\/"
+            },
+            "kaiserslautern": {
+                "name": "Kaiserslautern",
+                "link": "\/\/kaiserslautern.craigslist.de\/"
+            },
+            "leipzig": {
+                "name": "Leipzig",
+                "link": "\/\/leipzig.craigslist.de\/"
+            },
+            "munich": {
+                "name": "Munich",
+                "link": "\/\/munich.craigslist.de\/"
+            },
+            "nuremberg": {
+                "name": "Nuremberg",
+                "link": "\/\/nuremberg.craigslist.de\/"
+            },
+            "stuttgart": {
+                "name": "Stuttgart",
+                "link": "\/\/stuttgart.craigslist.de\/"
+            }
+        },
+        "Greece": {
+            "athens": {
+                "name": "Greece",
+                "link": "\/\/athens.craigslist.gr\/"
+            }
+        },
+        "Hungary": {
+            "budapest": {
+                "name": "Budapest",
+                "link": "\/\/budapest.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Iceland": {
+            "reykjavik": {
+                "name": "Reykjavik",
+                "link": "\/\/reykjavik.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Ireland": {
+            "dublin": {
+                "name": "Dublin",
+                "link": "\/\/dublin.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Italy": {
+            "bologna": {
+                "name": "Bologna",
+                "link": "\/\/bologna.craigslist.it\/"
+            },
+            "florence": {
+                "name": "Florence \/ Tuscany",
+                "link": "\/\/florence.craigslist.it\/"
+            },
+            "genoa": {
+                "name": "Genoa",
+                "link": "\/\/genoa.craigslist.it\/"
+            },
+            "milan": {
+                "name": "Milan",
+                "link": "\/\/milan.craigslist.it\/"
+            },
+            "naples": {
+                "name": "Napoli \/ Campania",
+                "link": "\/\/naples.craigslist.it\/"
+            },
+            "perugia": {
+                "name": "Perugia",
+                "link": "\/\/perugia.craigslist.it\/"
+            },
+            "rome": {
+                "name": "Rome",
+                "link": "\/\/rome.craigslist.it\/"
+            },
+            "sardinia": {
+                "name": "Sardinia",
+                "link": "\/\/sardinia.craigslist.it\/"
+            },
+            "sicily": {
+                "name": "Sicilia",
+                "link": "\/\/sicily.craigslist.it\/"
+            },
+            "torino": {
+                "name": "Torino",
+                "link": "\/\/torino.craigslist.it\/"
+            },
+            "venice": {
+                "name": "Venice \/ Veneto",
+                "link": "\/\/venice.craigslist.it\/"
+            }
+        },
+        "Luxembourg": {
+            "luxembourg": {
+                "name": "Luxembourg",
+                "link": "\/\/luxembourg.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Netherlands": {
+            "amsterdam": {
+                "name": "Amsterdam \/ Randstad",
+                "link": "\/\/amsterdam.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Norway": {
+            "oslo": {
+                "name": "Norway",
+                "link": "\/\/oslo.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Poland": {
+            "warsaw": {
+                "name": "Poland",
+                "link": "\/\/warsaw.craigslist.pl\/"
+            }
+        },
+        "Portugal": {
+            "faro": {
+                "name": "Faro \/ Algarve",
+                "link": "\/\/faro.craigslist.pt\/"
+            },
+            "lisbon": {
+                "name": "Lisbon",
+                "link": "\/\/lisbon.craigslist.pt\/"
+            },
+            "porto": {
+                "name": "Porto",
+                "link": "\/\/porto.craigslist.pt\/"
+            }
+        },
+        "Romania": {
+            "bucharest": {
+                "name": "Romania",
+                "link": "\/\/bucharest.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Russian Federation": {
+            "moscow": {
+                "name": "Moscow",
+                "link": "\/\/moscow.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "stpetersburg": {
+                "name": "St Petersburg",
+                "link": "\/\/stpetersburg.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Spain": {
+            "alicante": {
+                "name": "Alicante",
+                "link": "\/\/alicante.craigslist.es\/"
+            },
+            "baleares": {
+                "name": "Baleares",
+                "link": "\/\/baleares.craigslist.es\/"
+            },
+            "barcelona": {
+                "name": "Barcelona",
+                "link": "\/\/barcelona.craigslist.es\/"
+            },
+            "bilbao": {
+                "name": "Bilbao",
+                "link": "\/\/bilbao.craigslist.es\/"
+            },
+            "cadiz": {
+                "name": "Cadiz",
+                "link": "\/\/cadiz.craigslist.es\/"
+            },
+            "canarias": {
+                "name": "Canarias",
+                "link": "\/\/canarias.craigslist.es\/"
+            },
+            "granada": {
+                "name": "Granada",
+                "link": "\/\/granada.craigslist.es\/"
+            },
+            "madrid": {
+                "name": "Madrid",
+                "link": "\/\/madrid.craigslist.es\/"
+            },
+            "malaga": {
+                "name": "Malaga",
+                "link": "\/\/malaga.craigslist.es\/"
+            },
+            "sevilla": {
+                "name": "Sevilla",
+                "link": "\/\/sevilla.craigslist.es\/"
+            },
+            "valencia": {
+                "name": "Valencia",
+                "link": "\/\/valencia.craigslist.es\/"
+            }
+        },
+        "Sweden": {
+            "stockholm": {
+                "name": "Sweden",
+                "link": "\/\/stockholm.craigslist.se\/"
+            }
+        },
+        "Switzerland": {
+            "basel": {
+                "name": "Basel",
+                "link": "\/\/basel.craigslist.ch\/"
+            },
+            "bern": {
+                "name": "Bern",
+                "link": "\/\/bern.craigslist.ch\/"
+            },
+            "geneva": {
+                "name": "Geneva",
+                "link": "\/\/geneva.craigslist.ch\/"
+            },
+            "lausanne": {
+                "name": "Lausanne",
+                "link": "\/\/lausanne.craigslist.ch\/"
+            },
+            "zurich": {
+                "name": "Zurich",
+                "link": "\/\/zurich.craigslist.ch\/"
+            }
+        },
+        "Turkey": {
+            "istanbul": {
+                "name": "Turkey",
+                "link": "\/\/istanbul.craigslist.com.tr\/"
+            }
+        },
+        "Ukraine": {
+            "ukraine": {
+                "name": "Ukraine",
+                "link": "\/\/ukraine.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "United Kingdom": {
+            "aberdeen": {
+                "name": "Aberdeen",
+                "link": "\/\/aberdeen.craigslist.co.uk\/"
+            },
+            "bath": {
+                "name": "Bath",
+                "link": "\/\/bath.craigslist.co.uk\/"
+            },
+            "belfast": {
+                "name": "Belfast",
+                "link": "\/\/belfast.craigslist.co.uk\/"
+            },
+            "birmingham": {
+                "name": "Birmingham \/ West Mids",
+                "link": "\/\/birmingham.craigslist.co.uk\/"
+            },
+            "brighton": {
+                "name": "Brighton",
+                "link": "\/\/brighton.craigslist.co.uk\/"
+            },
+            "bristol": {
+                "name": "Bristol",
+                "link": "\/\/bristol.craigslist.co.uk\/"
+            },
+            "cambridge": {
+                "name": "Cambridge, UK",
+                "link": "\/\/cambridge.craigslist.co.uk\/"
+            },
+            "cardiff": {
+                "name": "Cardiff \/ Wales",
+                "link": "\/\/cardiff.craigslist.co.uk\/"
+            },
+            "coventry": {
+                "name": "Coventry",
+                "link": "\/\/coventry.craigslist.co.uk\/"
+            },
+            "derby": {
+                "name": "Derby",
+                "link": "\/\/derby.craigslist.co.uk\/"
+            },
+            "devon": {
+                "name": "Devon & Cornwall",
+                "link": "\/\/devon.craigslist.co.uk\/"
+            },
+            "dundee": {
+                "name": "Dundee",
+                "link": "\/\/dundee.craigslist.co.uk\/"
+            },
+            "norwich": {
+                "name": "East Anglia",
+                "link": "\/\/norwich.craigslist.co.uk\/"
+            },
+            "eastmids": {
+                "name": "East Midlands",
+                "link": "\/\/eastmids.craigslist.co.uk\/"
+            },
+            "edinburgh": {
+                "name": "Edinburgh",
+                "link": "\/\/edinburgh.craigslist.co.uk\/"
+            },
+            "essex": {
+                "name": "Essex",
+                "link": "\/\/essex.craigslist.co.uk\/"
+            },
+            "glasgow": {
+                "name": "Glasgow",
+                "link": "\/\/glasgow.craigslist.co.uk\/"
+            },
+            "hampshire": {
+                "name": "Hampshire",
+                "link": "\/\/hampshire.craigslist.co.uk\/"
+            },
+            "kent": {
+                "name": "Kent",
+                "link": "\/\/kent.craigslist.co.uk\/"
+            },
+            "leeds": {
+                "name": "Leeds",
+                "link": "\/\/leeds.craigslist.co.uk\/"
+            },
+            "liverpool": {
+                "name": "Liverpool",
+                "link": "\/\/liverpool.craigslist.co.uk\/"
+            },
+            "london": {
+                "name": "London",
+                "link": "\/\/london.craigslist.co.uk\/"
+            },
+            "manchester": {
+                "name": "Manchester",
+                "link": "\/\/manchester.craigslist.co.uk\/"
+            },
+            "newcastle": {
+                "name": "Newcastle \/ NE England",
+                "link": "\/\/newcastle.craigslist.co.uk\/"
+            },
+            "nottingham": {
+                "name": "Nottingham",
+                "link": "\/\/nottingham.craigslist.co.uk\/"
+            },
+            "oxford": {
+                "name": "Oxford",
+                "link": "\/\/oxford.craigslist.co.uk\/"
+            },
+            "sheffield": {
+                "name": "Sheffield",
+                "link": "\/\/sheffield.craigslist.co.uk\/"
+            }
+        }
+    },
+    "Asia, Pacific and Middle East": {
+        "Bangladesh": {
+            "bangladesh": {
+                "name": "Bangladesh",
+                "link": "\/\/bangladesh.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "China": {
+            "beijing": {
+                "name": "Beijing",
+                "link": "\/\/beijing.craigslist.com.cn\/"
+            },
+            "chengdu": {
+                "name": "Chengdu",
+                "link": "\/\/chengdu.craigslist.com.cn\/"
+            },
+            "chongqing": {
+                "name": "Chongqing",
+                "link": "\/\/chongqing.craigslist.com.cn\/"
+            },
+            "dalian": {
+                "name": "Dalian",
+                "link": "\/\/dalian.craigslist.com.cn\/"
+            },
+            "guangzhou": {
+                "name": "Guangzhou",
+                "link": "\/\/guangzhou.craigslist.com.cn\/"
+            },
+            "hangzhou": {
+                "name": "Hangzhou",
+                "link": "\/\/hangzhou.craigslist.com.cn\/"
+            },
+            "nanjing": {
+                "name": "Nanjing",
+                "link": "\/\/nanjing.craigslist.com.cn\/"
+            },
+            "shanghai": {
+                "name": "Shanghai",
+                "link": "\/\/shanghai.craigslist.com.cn\/"
+            },
+            "shenyang": {
+                "name": "Shenyang",
+                "link": "\/\/shenyang.craigslist.com.cn\/"
+            },
+            "shenzhen": {
+                "name": "Shenzhen",
+                "link": "\/\/shenzhen.craigslist.com.cn\/"
+            },
+            "wuhan": {
+                "name": "Wuhan",
+                "link": "\/\/wuhan.craigslist.com.cn\/"
+            },
+            "xian": {
+                "name": "Xi'an",
+                "link": "\/\/xian.craigslist.com.cn\/"
+            }
+        },
+        "Guam \/ Micronesia": {
+            "micronesia": {
+                "name": "Guam-micronesia",
+                "link": "\/\/micronesia.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Hong Kong": {
+            "hongkong": {
+                "name": "Hong Kong",
+                "link": "\/\/hongkong.craigslist.hk\/"
+            }
+        },
+        "India": {
+            "ahmedabad": {
+                "name": "Ahmedabad",
+                "link": "\/\/ahmedabad.craigslist.co.in\/"
+            },
+            "bangalore": {
+                "name": "Bangalore",
+                "link": "\/\/bangalore.craigslist.co.in\/"
+            },
+            "bhubaneswar": {
+                "name": "Bhubaneswar",
+                "link": "\/\/bhubaneswar.craigslist.co.in\/"
+            },
+            "chandigarh": {
+                "name": "Chandigarh",
+                "link": "\/\/chandigarh.craigslist.co.in\/"
+            },
+            "chennai": {
+                "name": "Chennai (madras)",
+                "link": "\/\/chennai.craigslist.co.in\/"
+            },
+            "delhi": {
+                "name": "Delhi",
+                "link": "\/\/delhi.craigslist.co.in\/"
+            },
+            "goa": {
+                "name": "Goa",
+                "link": "\/\/goa.craigslist.co.in\/"
+            },
+            "hyderabad": {
+                "name": "Hyderabad",
+                "link": "\/\/hyderabad.craigslist.co.in\/"
+            },
+            "indore": {
+                "name": "Indore",
+                "link": "\/\/indore.craigslist.co.in\/"
+            },
+            "jaipur": {
+                "name": "Jaipur",
+                "link": "\/\/jaipur.craigslist.co.in\/"
+            },
+            "kerala": {
+                "name": "Kerala",
+                "link": "\/\/kerala.craigslist.co.in\/"
+            },
+            "kolkata": {
+                "name": "Kolkata (calcutta)",
+                "link": "\/\/kolkata.craigslist.co.in\/"
+            },
+            "lucknow": {
+                "name": "Lucknow",
+                "link": "\/\/lucknow.craigslist.co.in\/"
+            },
+            "mumbai": {
+                "name": "Mumbai",
+                "link": "\/\/mumbai.craigslist.co.in\/"
+            },
+            "pune": {
+                "name": "Pune",
+                "link": "\/\/pune.craigslist.co.in\/"
+            },
+            "surat": {
+                "name": "Surat Surat",
+                "link": "\/\/surat.craigslist.co.in\/"
+            }
+        },
+        "Indonesia": {
+            "jakarta": {
+                "name": "Indonesia",
+                "link": "\/\/jakarta.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Iran": {
+            "tehran": {
+                "name": "Iran",
+                "link": "\/\/tehran.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Iraq": {
+            "baghdad": {
+                "name": "Iraq",
+                "link": "\/\/baghdad.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Israel and Palestine": {
+            "haifa": {
+                "name": "Haifa",
+                "link": "\/\/haifa.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "jerusalem": {
+                "name": "Jerusalem",
+                "link": "\/\/jerusalem.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "telaviv": {
+                "name": "Tel Aviv",
+                "link": "\/\/telaviv.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "ramallah": {
+                "name": "West Bank",
+                "link": "\/\/ramallah.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Japan": {
+            "fukuoka": {
+                "name": "Fukuoka",
+                "link": "\/\/fukuoka.craigslist.jp\/"
+            },
+            "hiroshima": {
+                "name": "Hiroshima",
+                "link": "\/\/hiroshima.craigslist.jp\/"
+            },
+            "nagoya": {
+                "name": "Nagoya",
+                "link": "\/\/nagoya.craigslist.jp\/"
+            },
+            "okinawa": {
+                "name": "Okinawa",
+                "link": "\/\/okinawa.craigslist.jp\/"
+            },
+            "osaka": {
+                "name": "Osaka-kobe-kyoto",
+                "link": "\/\/osaka.craigslist.jp\/"
+            },
+            "sapporo": {
+                "name": "Sapporo",
+                "link": "\/\/sapporo.craigslist.jp\/"
+            },
+            "sendai": {
+                "name": "Sendai",
+                "link": "\/\/sendai.craigslist.jp\/"
+            },
+            "tokyo": {
+                "name": "Tokyo",
+                "link": "\/\/tokyo.craigslist.jp\/"
+            }
+        },
+        "Korea": {
+            "seoul": {
+                "name": "Seoul",
+                "link": "\/\/seoul.craigslist.co.kr\/"
+            }
+        },
+        "Kuwait": {
+            "kuwait": {
+                "name": "Kuwait",
+                "link": "\/\/kuwait.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Lebanon": {
+            "beirut": {
+                "name": "Beirut, Lebanon",
+                "link": "\/\/beirut.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Malaysia": {
+            "malaysia": {
+                "name": "Malaysia",
+                "link": "\/\/malaysia.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Pakistan": {
+            "pakistan": {
+                "name": "Pakistan",
+                "link": "\/\/pakistan.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Philippines": {
+            "bacolod": {
+                "name": "Bacolod",
+                "link": "\/\/bacolod.craigslist.com.ph\/"
+            },
+            "naga": {
+                "name": "Bicol Region",
+                "link": "\/\/naga.craigslist.com.ph\/"
+            },
+            "cdo": {
+                "name": "Cagayan De Oro",
+                "link": "\/\/cdo.craigslist.com.ph\/"
+            },
+            "cebu": {
+                "name": "Cebu",
+                "link": "\/\/cebu.craigslist.com.ph\/"
+            },
+            "davaocity": {
+                "name": "Davao City",
+                "link": "\/\/davaocity.craigslist.com.ph\/"
+            },
+            "iloilo": {
+                "name": "Iloilo",
+                "link": "\/\/iloilo.craigslist.com.ph\/"
+            },
+            "manila": {
+                "name": "Manila",
+                "link": "\/\/manila.craigslist.com.ph\/"
+            },
+            "pampanga": {
+                "name": "Pampanga",
+                "link": "\/\/pampanga.craigslist.com.ph\/"
+            },
+            "zamboanga": {
+                "name": "Zamboanga",
+                "link": "\/\/zamboanga.craigslist.com.ph\/"
+            }
+        },
+        "Singapore": {
+            "singapore": {
+                "name": "Singapore",
+                "link": "\/\/singapore.craigslist.com.sg\/"
+            }
+        },
+        "Taiwan": {
+            "taipei": {
+                "name": "Taiwan",
+                "link": "\/\/taipei.craigslist.com.tw\/"
+            }
+        },
+        "Thailand": {
+            "bangkok": {
+                "name": "Thailand",
+                "link": "\/\/bangkok.craigslist.co.th\/"
+            }
+        },
+        "United Arab Emirates": {
+            "dubai": {
+                "name": "United Arab Emirates",
+                "link": "\/\/dubai.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Vietnam": {
+            "vietnam": {
+                "name": "Vietnam",
+                "link": "\/\/vietnam.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        }
+    },
+    "Oceania": {
+        "Australia": {
+            "adelaide": {
+                "name": "Adelaide",
+                "link": "\/\/adelaide.craigslist.com.au\/"
+            },
+            "brisbane": {
+                "name": "Brisbane",
+                "link": "\/\/brisbane.craigslist.com.au\/"
+            },
+            "cairns": {
+                "name": "Cairns",
+                "link": "\/\/cairns.craigslist.com.au\/"
+            },
+            "canberra": {
+                "name": "Canberra",
+                "link": "\/\/canberra.craigslist.com.au\/"
+            },
+            "darwin": {
+                "name": "Darwin",
+                "link": "\/\/darwin.craigslist.com.au\/"
+            },
+            "goldcoast": {
+                "name": "Gold Coast",
+                "link": "\/\/goldcoast.craigslist.com.au\/"
+            },
+            "melbourne": {
+                "name": "Melbourne",
+                "link": "\/\/melbourne.craigslist.com.au\/"
+            },
+            "ntl": {
+                "name": "Newcastle, NSW",
+                "link": "\/\/ntl.craigslist.com.au\/"
+            },
+            "perth": {
+                "name": "Perth",
+                "link": "\/\/perth.craigslist.com.au\/"
+            },
+            "sydney": {
+                "name": "Sydney",
+                "link": "\/\/sydney.craigslist.com.au\/"
+            },
+            "hobart": {
+                "name": "Tasmania",
+                "link": "\/\/hobart.craigslist.com.au\/"
+            },
+            "wollongong": {
+                "name": "Wollongong",
+                "link": "\/\/wollongong.craigslist.com.au\/"
+            }
+        },
+        "New Zealand": {
+            "auckland": {
+                "name": "Auckland",
+                "link": "\/\/auckland.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "christchurch": {
+                "name": "Christchurch",
+                "link": "\/\/christchurch.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "dunedin": {
+                "name": "Dunedin",
+                "link": "\/\/dunedin.craigslist.co.nz\/"
+            },
+            "wellington": {
+                "name": "Wellington",
+                "link": "\/\/wellington.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        }
+    },
+    "Latin America and Caribbean": {
+        "Argentina": {
+            "buenosaires": {
+                "name": "Buenos Aires",
+                "link": "\/\/buenosaires.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Bolivia": {
+            "lapaz": {
+                "name": "Bolivia",
+                "link": "\/\/lapaz.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Brazil": {
+            "belohorizonte": {
+                "name": "Belo Horizonte",
+                "link": "\/\/belohorizonte.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "brasilia": {
+                "name": "Brasilia",
+                "link": "\/\/brasilia.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "curitiba": {
+                "name": "Curitiba",
+                "link": "\/\/curitiba.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "fortaleza": {
+                "name": "Fortaleza",
+                "link": "\/\/fortaleza.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "portoalegre": {
+                "name": "Porto Alegre",
+                "link": "\/\/portoalegre.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "recife": {
+                "name": "Recife",
+                "link": "\/\/recife.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "rio": {
+                "name": "Rio De Janeiro",
+                "link": "\/\/rio.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "salvador": {
+                "name": "Salvador, Bahia",
+                "link": "\/\/salvador.craigslist.org/d/computer-gigs/search/cpg/"
+            },
+            "saopaulo": {
+                "name": "Sao Paulo",
+                "link": "\/\/saopaulo.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Caribbean Islands": {
+            "caribbean": {
+                "name": "Caribbean Islands",
+                "link": "\/\/caribbean.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Chile": {
+            "santiago": {
+                "name": "Chile",
+                "link": "\/\/santiago.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Colombia": {
+            "colombia": {
+                "name": "Colombia",
+                "link": "\/\/colombia.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Costa Rica": {
+            "costarica": {
+                "name": "Costa Rica",
+                "link": "\/\/costarica.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Dominican Republic": {
+            "santodomingo": {
+                "name": "Dominican Republic",
+                "link": "\/\/santodomingo.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Ecuador": {
+            "quito": {
+                "name": "Ecuador",
+                "link": "\/\/quito.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "El Salvador": {
+            "elsalvador": {
+                "name": "El Salvador",
+                "link": "\/\/elsalvador.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Guatemala": {
+            "guatemala": {
+                "name": "Guatemala",
+                "link": "\/\/guatemala.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Mexico": {
+            "acapulco": {
+                "name": "Acapulco",
+                "link": "\/\/acapulco.craigslist.com.mx\/"
+            },
+            "bajasur": {
+                "name": "Baja California Sur",
+                "link": "\/\/bajasur.craigslist.com.mx\/"
+            },
+            "chihuahua": {
+                "name": "Chihuahua",
+                "link": "\/\/chihuahua.craigslist.com.mx\/"
+            },
+            "juarez": {
+                "name": "Ciudad Juarez",
+                "link": "\/\/juarez.craigslist.com.mx\/"
+            },
+            "guadalajara": {
+                "name": "Guadalajara",
+                "link": "\/\/guadalajara.craigslist.com.mx\/"
+            },
+            "guanajuato": {
+                "name": "Guanajuato",
+                "link": "\/\/guanajuato.craigslist.com.mx\/"
+            },
+            "hermosillo": {
+                "name": "Hermosillo",
+                "link": "\/\/hermosillo.craigslist.com.mx\/"
+            },
+            "mazatlan": {
+                "name": "Mazatlan",
+                "link": "\/\/mazatlan.craigslist.com.mx\/"
+            },
+            "mexicocity": {
+                "name": "Mexico City",
+                "link": "\/\/mexicocity.craigslist.com.mx\/"
+            },
+            "monterrey": {
+                "name": "Monterrey",
+                "link": "\/\/monterrey.craigslist.com.mx\/"
+            },
+            "oaxaca": {
+                "name": "Oaxaca",
+                "link": "\/\/oaxaca.craigslist.com.mx\/"
+            },
+            "puebla": {
+                "name": "Puebla",
+                "link": "\/\/puebla.craigslist.com.mx\/"
+            },
+            "pv": {
+                "name": "Puerto Vallarta",
+                "link": "\/\/pv.craigslist.com.mx\/"
+            },
+            "tijuana": {
+                "name": "Tijuana",
+                "link": "\/\/tijuana.craigslist.com.mx\/"
+            },
+            "veracruz": {
+                "name": "Veracruz",
+                "link": "\/\/veracruz.craigslist.com.mx\/"
+            },
+            "yucatan": {
+                "name": "Yucatan",
+                "link": "\/\/yucatan.craigslist.com.mx\/"
+            }
+        },
+        "Nicaragua": {
+            "managua": {
+                "name": "Nicaragua",
+                "link": "\/\/managua.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Panama": {
+            "panama": {
+                "name": "Panama",
+                "link": "\/\/panama.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Peru": {
+            "lima": {
+                "name": "Peru",
+                "link": "\/\/lima.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Puerto Rico": {
+            "puertorico": {
+                "name": "Puerto Rico",
+                "link": "\/\/puertorico.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Uruguay": {
+            "montevideo": {
+                "name": "Montevideo",
+                "link": "\/\/montevideo.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Venezuela": {
+            "caracas": {
+                "name": "Venezuela",
+                "link": "\/\/caracas.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Virgin Islands, U.S.": {
+            "virgin": {
+                "name": "Virgin Islands",
+                "link": "\/\/virgin.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        }
+    },
+    "Africa": {
+        "Egypt": {
+            "cairo": {
+                "name": "Egypt",
+                "link": "\/\/cairo.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Ethiopia": {
+            "addisababa": {
+                "name": "Ethiopia",
+                "link": "\/\/addisababa.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Ghana": {
+            "accra": {
+                "name": "Ghana",
+                "link": "\/\/accra.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Kenya": {
+            "kenya": {
+                "name": "Kenya",
+                "link": "\/\/kenya.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "Morocco": {
+            "casablanca": {
+                "name": "Morocco",
+                "link": "\/\/casablanca.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        },
+        "South Africa": {
+            "capetown": {
+                "name": "Cape Town",
+                "link": "\/\/capetown.craigslist.co.za\/"
+            },
+            "durban": {
+                "name": "Durban",
+                "link": "\/\/durban.craigslist.co.za\/"
+            },
+            "johannesburg": {
+                "name": "Johannesburg",
+                "link": "\/\/johannesburg.craigslist.co.za\/"
+            },
+            "pretoria": {
+                "name": "Pretoria",
+                "link": "\/\/pretoria.craigslist.co.za\/"
+            }
+        },
+        "Tunisia": {
+            "tunis": {
+                "name": "Tunisia",
+                "link": "\/\/tunis.craigslist.org/d/computer-gigs/search/cpg/"
+            }
+        }
+    }
+}
